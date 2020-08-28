@@ -5,5 +5,5 @@
 #SBATCH --job-name=matlab_example1
 #SBATCH --output=matlab_example1.out
 #SBATCH --mem=1000
-module load MATLAB/2017b-GCC-4.9.3-2.25
+module load MATLAB/2019b
 matlab -nodisplay -nosplash -nodesktop < matlab_example1.m;exit

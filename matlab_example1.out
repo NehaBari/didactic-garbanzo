@@ -1,0 +1,59 @@
+Opening log file:  /home/s3701417/java.log.13292
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019b Update 5 (9.7.0.1319299) 64-bit (glnxa64)
+                             February 19, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+	Classroom License -- for classroom instructional use only.
+
+>> >> >> >> >> >> >> 
+A =
+
+     1     0     0
+     0     1     0
+     0     0     1
+
+>> 
+
+###############################################################################
+Peregrine Cluster
+Job 13437009 for user 's3701417'
+Finished at: Fri Aug 28 13:52:18 CEST 2020
+
+Job details:
+============
+
+Name                : matlab_example1
+User                : s3701417
+Partition           : regular
+Nodes               : pg-node205
+Cores               : 1
+State               : COMPLETED
+Submit              : 2020-08-28T13:51:15
+Start               : 2020-08-28T13:51:58
+End                 : 2020-08-28T13:52:18
+Reserved walltime   : 00:05:00
+Used walltime       : 00:00:20
+Used CPU time       : 00:00:07 (efficiency: 37.91%)
+% User (Computation): 86.35%
+% System (I/O)      : 13.64%
+Mem reserved        : 1000M/node
+Max Mem used        : 0.00  (pg-node205)
+Max Disk Write      : 0.00  (pg-node205)
+Max Disk Read       : 0.00  (pg-node205)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################
